@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "utils.h": "c",
+        "arguments.h": "c",
+        "parser.h": "c",
+        "typeinfo": "c",
+        "stat.h": "c",
+        "jp.h": "c",
+        "random": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "node.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "functional": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
